@@ -1,0 +1,3 @@
+redo code in JS
+incorporate react
+add necessary HTML/CSS
